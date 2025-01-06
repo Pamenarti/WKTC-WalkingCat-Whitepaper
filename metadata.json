@@ -1,0 +1,31 @@
+{ items
+	name: "Walking Cat Token"
+	symbol:	"WKCT"
+	description: "Walking Cat Token aims to provide high efficiency, high profit and transparency  ..."
+	image: "https://gateway.pinata.cloud/ipfs/QmQUk6oxVNqXuZ3iNypeALHgewcb1jYnGiBnFTr1ebmQXA"
+		extensions:{10 items
+		website: "https://walkingcattoken.com/"
+		twitter: "https://twitter.com/walkingcattoken"
+		telegram: "https://t.me/WalkingCatToken"
+		discord: "http://discord.gg/walkingcat"
+		youtube: "http://www.youtube.com/@WalkingCatToken"
+		medium: "https://twitter.com/walkingcattoken"
+		github: "https://twitter.com/walkingcattoken"
+		instagram: "https://twitter.com/walkingcattoken"
+		reddit: "https://twitter.com/walkingcattoken"
+		facebook: "https://twitter.com/walkingcattoken"
+	}
+		coverImage: "https://gateway.pinata.cloud/ipfs/QmQUk6oxVNqXuZ3iNypeALHgewcb1jYnGiBnFTr1ebmQXA"
+		youtubeVideo: "http://www.youtube.com/@WalkingCatToken"
+	tags:[3 items
+		0: "Meme"
+		1: "Tokenization"
+		2: 	"Airdrop"
+		]
+	creator:{2 items
+		name:
+	"CoinFactory"
+		site:
+		"https://coinfactory.app"
+	}
+}
