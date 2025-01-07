@@ -3,7 +3,7 @@
 
 Hello,
 
-We want the domains related to walkingcattoken.com and sales.walkingcattoken.com to be cleaned.
+We want the domains related to *walkingcattoken.com* and *sales.walkingcattoken.com* to be cleaned.
 
 Best regards
 
